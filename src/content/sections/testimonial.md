@@ -1,7 +1,7 @@
 ---
 enable: true
-title: "What Users Are Saying About Astroplate"
-description: "Don't just take our word for it - hear from some of our satisfied users!  Check out some of our testimonials below to see what others are saying about Astroplate."
+title: "Lo que nuestros clientes dicen"
+description: "No se fíe sólo de nuestra palabra: ¡escuche a algunos de nuestros usuarios satisfechos! Eche un vistazo a algunos de nuestros testimonios a continuación para ver lo que otros dicen de Proiuro."
 
 # Testimonials
 testimonials:

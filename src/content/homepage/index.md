@@ -11,41 +11,39 @@ banner:
 
 # Features
 features:
-  - title: "What's Included in Astroplate"
+  - title: "Asesoría corporativa"
     image: "/images/service-1.png"
-    content: "Astroplate is a comprehensive starter template that includes everything you need to get started with your Astro project. What's Included in Astroplate"
+    content: "Te enseñaremos todas las herramientas legales que necesitas para hacer que tu proyecto sea exitoso, respondiendo preguntas comunes que todos los emprendedores nos hacemos tales como:"
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Astro and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "¿Cuál es la sociedad que te conviene más? "
+      - "¿Cuánto es el capital adecuado para iniciar mi sociedad?"
+      - "¿Cómo inscribir mi sociedad en el sistema electrónico?"
+      - "¿Cuales son los tramites que debo realizar para formalizar mi sociedad en Chile?"
     button:
       enable: false
       label: "Get Started Now"
       link: "#"
 
-  - title: "Discover the Key Features Of Astro"
+  - title: "Asesoría legal"
     image: "/images/service-2.png"
-    content: "Astro is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
+    content: "Te brindaremos el apoyo para que así logres capitalizar tus sueños. Haciendo lo que mas te gusta, te apoyaremos en todo este proceso de formalizar tu emprendimiento, ese al que le haz dedicado todo tu esfuerzo y si lo llevas por el camino correcto tendrás las posibilidades mas altas de lograr el éxito que tanto deseas. "
     bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "Estructura legal sólida para tu startup."
+      - "Protección de propiedad intelectual y marcas registradas."
+      - "Contratos personalizados para acuerdos comerciales."
     button:
-      enable: true
+      enable: false
       label: "Get Started Now"
       link: "https://github.com/zeon-studio/astroplate"
 
-  - title: "The Top Reasons to Choose Astro for Your Next Project"
+  - title: "Suceciones"
     image: "/images/service-3.png"
-    content: "With Astro, you can build modern and content-focused websites without sacrificing performance or ease of use."
+    content: "En momentos difíciles, te acompañamos en el proceso de planificación de sucesiones y herencias. Nuestro equipo de abogados especializados te brindará la orientación necesaria para asegurar que tus bienes y legado estén protegidos."
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Astro a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "Asesoramiento en Planificación de Sucesiones."
+      - "Redacción de Testamentos y Documentos Legales."
+      - "Resolución de Conflictos Sucesorios."
+      - "Asesoría en Impuestos y Gestión Patrimonial."
     button:
       enable: false
       label: ""
