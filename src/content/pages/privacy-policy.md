@@ -1,30 +1,53 @@
 ---
-title: "Privacy"
+title: "Política de Privacidad"
 meta_title: ""
 description: "this is meta description"
 draft: false
 ---
 
-#### Responsibility of Contributors
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
 
-pretium, aliquam sit. Praesent elementum magna amet, tincidunt eros, nibh in leo. Malesuada purus, lacus, at aliquam suspendisse tempus. Quis tempus amet, velit nascetur sollicitudin. At sollicitudin eget amet in. Eu velit nascetur sollicitudin erhdfvssfvrgss eget viverra nec elementum. Lacus, facilisis tristique lectus in.
+#### Última actualización: [Fecha de última actualización]
 
-#### Gathering of Personal Information
+En Proiuro, nos comprometemos a proteger y respetar tu privacidad. Esta política de privacidad describe cómo recopilamos, utilizamos, almacenamos y protegemos la información personal que puedas proporcionarnos a través de nuestro sitio web o en cualquier otra interacción con nuestra empresa.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+#### Recopilación y Uso de Información
 
-#### Protection of Personal- Information
+Podemos recopilar información personal que tú proporcionas voluntariamente, como tu nombre, dirección de correo electrónico, número de teléfono y otra información relevante necesaria para brindar nuestros servicios de asesoría legal.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus.
+#### Utilizamos la información que recopilamos para los siguientes propósitos:
 
-Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat
+- Brindar nuestros servicios de asesoría legal de manera efectiva y personalizada.
+- Comunicarnos contigo sobre los servicios contratados y cualquier asunto relacionado.
+- Responder a tus preguntas, comentarios o solicitudes de información.
+- Enviar comunicaciones de marketing y promocionales relacionadas con nuestros servicios (solo si has dado tu consentimiento expreso para recibir dichas comunicaciones).
+- Mejorar nuestros servicios y realizar análisis estadísticos sobre el uso de nuestro sitio web.
 
-#### Privacy Policy Changes
+#### Protección de la Información
 
-1. Sll the Themefisher items are designed to be with the latest , We check all
-2. comments that threaten or harm the reputation of any person or organization
-3. personal information including, but limited to, email addresses, telephone numbers
-4. Any Update come in The technology Customer will get automatic Notification.
+Nos comprometemos a proteger la seguridad de tu información personal. Utilizamos medidas de seguridad físicas, electrónicas y administrativas para proteger tu información contra el acceso no autorizado, la divulgación y el uso indebido.
+
+#### Compartir Información
+
+No compartiremos tu información personal con terceros, excepto en los siguientes casos:
+
+- Cuando sea necesario para cumplir con obligaciones legales o regulatorias.
+- Con tu consentimiento explícito para compartir información con terceros para fines específicos.
+- Cuando sea necesario para la prestación de nuestros servicios, en cuyo caso se compartirá solo la información relevante y necesaria.
+
+#### Tus Derechos
+
+Tienes derecho a acceder, corregir o eliminar la información personal que tenemos sobre ti. Si deseas ejercer cualquiera de estos derechos o tienes alguna pregunta o inquietud sobre nuestra política de privacidad, por favor contáctanos a través de [correo electrónico de contacto].
+
+#### Cambios en la Política de Privacidad
+
+Podemos actualizar esta política de privacidad ocasionalmente. Cualquier cambio en nuestra política de privacidad se publicará en esta página con una nueva fecha de "Última actualización".
+
+Al utilizar nuestro sitio web y proporcionar tu información personal, aceptas los términos de esta política de privacidad.
+
+Gracias por confiar en Proiuro. Si tienes alguna pregunta o inquietud, no dudes en contactarnos.
+
+Proiuro <br>
+[Dirección] <br>
+[Teléfono] <br>
+[Correo electrónico de contacto]
