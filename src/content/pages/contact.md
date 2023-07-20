@@ -1,6 +1,6 @@
 ---
-title: "Contact"
+title: "¡Agenda una Consulta Gratuita!"
 meta_title: ""
-description: "this is meta description"
+description: "Proiuro | Contacto"
 draft: false
 ---
