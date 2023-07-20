@@ -1,12 +1,12 @@
 {
   "site": {
-    "title": "Astroplate",
+    "title": "Proiuro | Asesoría legal",
     "base_url": "https://astroplate.netlify.app",
     "base_path": "/",
     "trailing_slash": false,
-    "favicon": "/images/favicon.png",
-    "logo": "/images/logo.png",
-    "logo_darkmode": "/images/logo-darkmode.png",
+    "favicon": "/images/ficon.svg",
+    "logo": "/images/lblak.svg",
+    "logo_darkmode": "/images/lwhite.svg",
     "logo_width": "150",
     "logo_height": "30",
     "logo_text": "Astroplate"
@@ -24,13 +24,13 @@
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "Designed And Developed by [Zeon Studio](https://zeon.studio)"
+    "copyright": "Designed And Developed by [Lpzc](https://lpzc.up.railway.app)"
   },
 
   "navigation_button": {
     "enable": true,
-    "label": "Get Started",
-    "link": "https://github.com/zeon-studio/astroplate"
+    "label": "Contáctanos",
+    "link": "/contact"
   },
 
   "disqus": {

@@ -5,15 +5,7 @@
       "url": "/"
     },
     {
-      "name": "About",
-      "url": "/about"
-    },
-    {
-      "name": "Elements",
-      "url": "/elements"
-    },
-    {
-      "name": "Pages",
+      "name": "Servicios",
       "url": "",
       "hasChildren": true,
       "children": [
@@ -42,12 +34,25 @@
           "url": "/404"
         }
       ]
+    },
+    {
+      "name": "Nosotros",
+      "url": "/about"
     }
+
   ],
   "footer": [
     {
-      "name": "Elements",
-      "url": "/elements"
+      "name": "Nosotros",
+      "url": "/about"
+    },
+    {
+      "name": "Mision",
+      "url": "/about"
+    },
+    {
+      "name": "Vision",
+      "url": "/about"
     },
     {
       "name": "Privacy Policy",

@@ -1,12 +1,12 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Astro Project"
-  content: "Astroplate is a free starter template built with Astro and TailwindCSS, providing everything you need to jumpstart your Astro project and save valuable time."
+  title: "Protege tu Emprendimiento con Asesoría Legal Especializada."
+  content: "Nuestro equipo está conformado por abogados con amplia experiencia y conocimientos en diversas áreas legales. Estamos dedicados a defender tus derechos y lograr resultados favorables para ti."
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Get Started For Free"
+    label: "Más información"
     link: "https://github.com/zeon-studio/astroplate"
 
 # Features
